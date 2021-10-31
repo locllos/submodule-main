@@ -1,0 +1,3 @@
+[submodule "submodule-contrib"]
+	path = submodule-contrib
+	url = https://github.com/molidex/submodule-contrib.git
